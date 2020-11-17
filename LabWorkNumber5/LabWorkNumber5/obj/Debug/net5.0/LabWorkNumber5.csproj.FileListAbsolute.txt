@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/LabWorkNumber5/LabWorkNumber5/bin/Debug/net5.0/LabWorkNumber5.deps.json
+/Users/oleg/Desktop/LabWorkNumber5/LabWorkNumber5/bin/Debug/net5.0/LabWorkNumber5.runtimeconfig.json
+/Users/oleg/Desktop/LabWorkNumber5/LabWorkNumber5/bin/Debug/net5.0/LabWorkNumber5.runtimeconfig.dev.json
+/Users/oleg/Desktop/LabWorkNumber5/LabWorkNumber5/bin/Debug/net5.0/LabWorkNumber5.dll
+/Users/oleg/Desktop/LabWorkNumber5/LabWorkNumber5/bin/Debug/net5.0/ref/LabWorkNumber5.dll
+/Users/oleg/Desktop/LabWorkNumber5/LabWorkNumber5/bin/Debug/net5.0/LabWorkNumber5.pdb
+/Users/oleg/Desktop/LabWorkNumber5/LabWorkNumber5/obj/Debug/net5.0/LabWorkNumber5.csprojAssemblyReference.cache
+/Users/oleg/Desktop/LabWorkNumber5/LabWorkNumber5/obj/Debug/net5.0/LabWorkNumber5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/LabWorkNumber5/LabWorkNumber5/obj/Debug/net5.0/LabWorkNumber5.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/LabWorkNumber5/LabWorkNumber5/obj/Debug/net5.0/LabWorkNumber5.AssemblyInfo.cs
+/Users/oleg/Desktop/LabWorkNumber5/LabWorkNumber5/obj/Debug/net5.0/LabWorkNumber5.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/LabWorkNumber5/LabWorkNumber5/obj/Debug/net5.0/LabWorkNumber5.dll
+/Users/oleg/Desktop/LabWorkNumber5/LabWorkNumber5/obj/Debug/net5.0/ref/LabWorkNumber5.dll
+/Users/oleg/Desktop/LabWorkNumber5/LabWorkNumber5/obj/Debug/net5.0/LabWorkNumber5.pdb
+/Users/oleg/Desktop/LabWorkNumber5/LabWorkNumber5/obj/Debug/net5.0/LabWorkNumber5.genruntimeconfig.cache
