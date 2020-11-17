@@ -20,9 +20,9 @@ namespace LabWorkNumber5
 
             extent_X = 1;
 
-            x1 = 2;
+            x1 = 3;
 
-            x2 = 4;
+            x2 = 5;
 
             Console.Write("Введите X -  ");
 
@@ -64,7 +64,7 @@ namespace LabWorkNumber5
 
                 i++;
 
-                Console.WriteLine("Введите для продолжения любое число, для выхода 0:");
+                Console.WriteLine("Для продолжения работы программы введите любое число, для выхода 0:");
 
                 number = Convert.ToInt32(Console.ReadLine());
 
